@@ -2,7 +2,7 @@
 title: Domovská stránka
 description: 
 published: true
-date: 2025-03-20T23:37:37.478Z
+date: 2025-03-20T23:40:36.926Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T18:37:15.976Z
@@ -29,7 +29,7 @@ Pro návody jak tuto wiki používat se podívej zde: [https://docs.requarks.io/
 
 ### Zálohy
 - Hlavní záloha je vytvářena každých 5 minut na GitHub **https://github.com/z33a/spsowiki-backup**
-- Další záloha je vytvářena v realném čase na lokální disk
+- Další záloha je vytvářena každý den na lokální disk
 
 ### Co nefunguje
 - Zatím jsem nevytvořil SMTP Client/Server takže email je pouze na přihlášení ale resetovat heslo nebo jiné akce nefungují
