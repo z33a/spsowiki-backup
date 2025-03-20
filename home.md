@@ -2,13 +2,13 @@
 title: Domovská stránka
 description: 
 published: true
-date: 2025-03-20T23:23:34.583Z
+date: 2025-03-20T23:37:37.478Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T18:37:15.976Z
 ---
 
-> Každý nový účet musím nejdříve manuálně oveřit, takže vám to prvně vyhodí error. Pokud to do pár minut neudělám napište mi na Discord
+> **Přijímám nápady na pozadí přihlašovací obrazovky + lepší hlavní logo**
 {.is-info}
 
 # Domovská stránka
@@ -17,6 +17,8 @@ Vítej na neoficialní wiki **SPŠO**. Wiki je zprostředkována studenty pro st
 Hlavní účel této wiki je poskytnout centrální místo kde sehnat poznámky pokud jsi chyběl, nedávál pozor, máš před sebou maturitu, atd.
 
 Pro návody jak tuto wiki používat se podívej zde: [https://docs.requarks.io/](https://docs.requarks.io/)
+
+**Každý nový účet musím nejdříve manuálně oveřit, takže vám to prvně vyhodí error. Pokud to do pár minut neudělám napište mi na Discord.**
 
 ## Podpora
 - V případě problémů mi napište na email **spsowiki.oo4qc@passinbox.com** nebo na Discord '**z33a_z33a**'
@@ -27,13 +29,13 @@ Pro návody jak tuto wiki používat se podívej zde: [https://docs.requarks.io/
 
 ### Zálohy
 - Hlavní záloha je vytvářena každých 5 minut na GitHub **https://github.com/z33a/spsowiki-backup**
+- Další záloha je vytvářena v realném čase na lokální disk
 
 ### Co nefunguje
 - Zatím jsem nevytvořil SMTP Client/Server takže email je pouze na přihlášení ale resetovat heslo nebo jiné akce nefungují
 
 ### Výpadky
-> Každý **pátek** příbližně mezi **18:00** až **20:00** se server vypíná na **+-30 min** z důvodu aktualizace
-{.is-info}
+- Každý **pátek** příbližně mezi **18:00** až **20:00** se server vypíná na **+-30 min** z důvodu aktualizace
 
 ## Credits
 - Velké dík **Dominikovi** za spoustu dobře strukturovaných poznámek z KLV a OBN.
