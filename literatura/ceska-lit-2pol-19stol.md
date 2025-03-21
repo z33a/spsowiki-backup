@@ -2,12 +2,13 @@
 title: Česká literatura v druhé polovině 19. století
 description: 
 published: true
-date: 2025-03-20T18:31:11.443Z
+date: 2025-03-21T22:50:58.393Z
 tags: literatura
 editor: markdown
 dateCreated: 2025-03-20T12:16:24.391Z
 ---
 
+# Česká literatura v druhé polovině 19. století
 - Bachova absolutismus
 	- tvrdá cenzura
 - společnost rozdělena na 2 staročeši
