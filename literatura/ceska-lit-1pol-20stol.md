@@ -2,23 +2,24 @@
 title: Česká literatura v první polovině 20. století
 description: 
 published: true
-date: 2025-03-20T15:14:34.695Z
+date: 2025-03-21T22:54:50.573Z
 tags: literatura
 editor: markdown
 dateCreated: 2025-03-20T12:01:58.879Z
 ---
 
+# Česká literatura v první polovině 20. století
 - 1900 -1945
 - kultura
 - orientace na Evropu
 - vznik Barandov
 - malířství
-  - secese, kubismus
+	- secese, kubismus
 - architektura
-  - novorenesance, novoklasicismus, minimální byty
+	- novorenesance, novoklasicismus, minimální byty
 - hudba - Dvořák, Janáček
 
-# Proletářská poezie
+## [**Proletářská poezie**](/cs/literatura/ceska-lit-1pol-20stol/proletari)
 - proletář - lidi co makají rukama
 - doba: 20. léta 20. stol.
 - příčina:
@@ -32,11 +33,11 @@ dateCreated: 2025-03-20T12:01:58.879Z
 	- jeden podnět vyvolá mnoho vzpomínek (vliv snů, halucinací, )
 - autoři: Wolker, Hora, Hořejší
 
-# Umělecké směry
+## Umělecké směry
 - vitalismus
 	- radost ze života, prostých věcí, mezilidských vztahů = reakce na válku
 - avantgarda
-	- [Proletářská poezie](/cs/literatura/ceska-lit-1pol-20stol/proletari)
+	- Proletářská poezie
 		- agitace
 		- přesvědčování o nastolení nového spravedlivého řádu
 		- revolučnost
@@ -49,7 +50,7 @@ dateCreated: 2025-03-20T12:01:58.879Z
 			- námět:
 				- sociální nespravedlnost, dělníci (Wolker, Neumann)
 
-# [Poetismus, surrealismus](/cs/literatura/ceska-lit-1pol-20stol/poetismus-surrealismus)
+## [Poetismus, surrealismus](/cs/literatura/ceska-lit-1pol-20stol/poetismus-surrealismus)
 - výhradně český směr
 - snaha učinit umění a společensky svobodným a tedy šťastným -> hravost, optimismus, fantazie, kino, cirkus, jazz, fotbal
 - znaky: 
