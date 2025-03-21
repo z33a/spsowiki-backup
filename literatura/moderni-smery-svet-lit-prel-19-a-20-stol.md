@@ -2,7 +2,7 @@
 title: Moderní umělecké směry ve světové literatuře na přelomu 19. a 20. století
 description: 
 published: true
-date: 2025-03-20T16:59:30.516Z
+date: 2025-03-21T22:35:31.592Z
 tags: literatura
 editor: markdown
 dateCreated: 2025-03-20T16:56:34.314Z
@@ -58,7 +58,7 @@ dateCreated: 2025-03-20T16:56:34.314Z
 - oslava života a lásky
 
 ## List států
-- [Francie - Moderní umělecké směry](/cs/literatura/moderni-smery-svet-lit-prel-19-a-20-stol/francie)
-- [USA - Moderní umělecké směry](/cs/literatura/moderni-smery-svet-lit-prel-19-a-20-stol/usa)
-- [Německo - Moderní umělecké směry](/cs/literatura/moderni-smery-svet-lit-prel-19-a-20-stol/nemecko)
-- [Anglie - Moderní umělecké směry](/cs/literatura/moderni-smery-svet-lit-prel-19-a-20-stol/anglie)
+- [**Francie - Moderní umělecké směry**](/cs/literatura/moderni-smery-svet-lit-prel-19-a-20-stol/francie)
+- [**USA - Moderní umělecké směry**](/cs/literatura/moderni-smery-svet-lit-prel-19-a-20-stol/usa)
+- [**Německo - Moderní umělecké směry**](/cs/literatura/moderni-smery-svet-lit-prel-19-a-20-stol/nemecko)
+- [**Anglie - Moderní umělecké směry**](/cs/literatura/moderni-smery-svet-lit-prel-19-a-20-stol/anglie)
