@@ -2,7 +2,7 @@
 title: Světová literatura 1. polovině 20. století
 description: 
 published: true
-date: 2025-03-20T18:13:17.760Z
+date: 2025-03-21T22:48:30.467Z
 tags: literatura
 editor: markdown
 dateCreated: 2025-03-20T18:01:04.463Z
@@ -45,8 +45,8 @@ dateCreated: 2025-03-20T18:01:04.463Z
 - skutečnost na jiné útvary
 
 ## List států
-- [Rusko - Světová literatura 1. polovině 20. století](/cs/literatura/svetova-lit-1pol-20stol/rusko)
-- [Anglie - Světová literatura 1. polovině 20. století](/cs/literatura/svetova-lit-1pol-20stol/anglie)
-- [USA - Světová literatura 1. polovině 20. století](/cs/literatura/svetova-lit-1pol-20stol/usa)
-- [Německo - Světová literatura 1. polovině 20. století](/cs/literatura/svetova-lit-1pol-20stol/nemecko)
-- [Francie - Světová literatura 1. polovině 20. století](/cs/literatura/svetova-lit-1pol-20stol/francie)
+- [**Rusko - Světová literatura 1. polovině 20. století**](/cs/literatura/svetova-lit-1pol-20stol/rusko)
+- [**Anglie - Světová literatura 1. polovině 20. století**](/cs/literatura/svetova-lit-1pol-20stol/anglie)
+- [**USA - Světová literatura 1. polovině 20. století**](/cs/literatura/svetova-lit-1pol-20stol/usa)
+- [**Německo - Světová literatura 1. polovině 20. století**](/cs/literatura/svetova-lit-1pol-20stol/nemecko)
+- [**Francie - Světová literatura 1. polovině 20. století*](/cs/literatura/svetova-lit-1pol-20stol/francie)
