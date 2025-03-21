@@ -2,7 +2,7 @@
 title: Základy
 description: 
 published: true
-date: 2025-03-20T18:20:03.866Z
+date: 2025-03-21T22:50:12.719Z
 tags: literatura
 editor: markdown
 dateCreated: 2025-03-20T18:16:26.394Z
@@ -58,7 +58,7 @@ dateCreated: 2025-03-20T18:16:26.394Z
 - přímá řeč
 
 ## Básnické prostředky
- -  [Figury](/cs/literatura/zaklady/figury) a [Tropy](/cs/literatura/zaklady/tropy)
+ -  [**Figury**](/cs/literatura/zaklady/figury) a [**Tropy**](/cs/literatura/zaklady/tropy)
 
 ## Rým
 - obkročný
