@@ -2,7 +2,7 @@
 title: Realismus v Anglii
 description: 
 published: true
-date: 2025-03-20T17:36:57.709Z
+date: 2025-03-21T22:44:57.741Z
 tags: literatura
 editor: markdown
 dateCreated: 2025-03-20T17:36:52.743Z
@@ -10,13 +10,9 @@ dateCreated: 2025-03-20T17:36:52.743Z
 
 # Realismus v Anglii
 - vznik dobrodružného románu
-	- [^1]Daniel Defoe - Robinson Crusoe
+	- Daniel Defoe - Robinson Crusoe
 - vznik filosofického románu
-	- [^2]Swift - Gulliverovy cesty
-
-[^1]: [[Romantismus v Anglii]]
-
-[^2]: [[Romantismus v Anglii]]
+	- Swift - Gulliverovy cesty
 
 ## Brontëová
 - díla:
