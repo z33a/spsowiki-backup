@@ -2,7 +2,7 @@
 title: Domovská stránka
 description: 
 published: true
-date: 2025-03-20T23:40:36.926Z
+date: 2025-03-21T07:18:11.347Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T18:37:15.976Z
@@ -12,9 +12,9 @@ dateCreated: 2025-03-18T18:37:15.976Z
 {.is-info}
 
 # Domovská stránka
-Vítej na neoficialní wiki **SPŠO**. Wiki je zprostředkována studenty pro studeny tak se prosím chovej slušně.
+Vítej na neoficiální wiki **SPŠO**. Wiki je zprostředkována studenty pro studenty tak se prosím chovej slušně.
 
-Hlavní účel této wiki je poskytnout centrální místo kde sehnat poznámky pokud jsi chyběl, nedávál pozor, máš před sebou maturitu, atd.
+Hlavní účel této wiki je poskytnout centrální místo kde sehnat poznámky pokud jsi chyběl, nedával pozor, máš před sebou maturitu, atd.
 
 Pro návody jak tuto wiki používat se podívej zde: [https://docs.requarks.io/](https://docs.requarks.io/)
 
@@ -28,8 +28,8 @@ Pro návody jak tuto wiki používat se podívej zde: [https://docs.requarks.io/
 - Při větším počtu připojených uživatelů jsou problémy s latencí předpokládáné (Můj internet není ten nejrychlejší)
 
 ### Zálohy
-- Hlavní záloha je vytvářena každých 5 minut na GitHub **https://github.com/z33a/spsowiki-backup**
-- Další záloha je vytvářena každý den na lokální disk
+- Primární záloha je vytvářena každých 5 minut na GitHub **https://github.com/z33a/spsowiki-backup**
+- Sekundární záloha je vytvářena každý den na lokální disk
 
 ### Co nefunguje
 - Zatím jsem nevytvořil SMTP Client/Server takže email je pouze na přihlášení ale resetovat heslo nebo jiné akce nefungují
