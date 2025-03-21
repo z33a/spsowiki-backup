@@ -2,12 +2,13 @@
 title: Baroko v Čechách
 description: 
 published: true
-date: 2025-03-20T11:17:59.717Z
+date: 2025-03-21T22:24:32.953Z
 tags: literatura, baroko
 editor: markdown
 dateCreated: 2025-03-20T11:10:59.477Z
 ---
 
+# Baroko v Čechách
 - 17 az 18 století
 - období válek (Třicetiletá)
 - růst katolické církve a absolutistické moci panovníka
@@ -21,7 +22,7 @@ dateCreated: 2025-03-20T11:10:59.477Z
 		- ďábel x dobro
 		- zlo x dobro
 		- chudoba x krása barokních chrámů
-- [Barokní literatura v Čechách](/cs/literatura/baroko/baroko_lit):
+- [**Barokní literatura v Čechách**](/cs/literatura/baroko/baroko_lit):
 	- legendy
 	- duchovní písně
 	- epos
