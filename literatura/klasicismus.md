@@ -2,7 +2,7 @@
 title: Klasicismus
 description: 
 published: true
-date: 2025-03-20T16:05:56.325Z
+date: 2025-03-21T22:34:12.619Z
 tags: literatura
 editor: markdown
 dateCreated: 2025-03-20T16:02:07.000Z
@@ -31,6 +31,6 @@ dateCreated: 2025-03-20T16:02:07.000Z
 - převládá rozum nad citem
 
 ## List států
-- [Nižší Francouzská tvorba klasicismu](/cs/literatura/klasicismus/nizsi-francie)
-- [Vyšší Francouzská tvorba klasicismu](/cs/literatura/klasicismus/vyssi-francie)
-- [Italská tvorba klasicismu](/cs/literatura/klasicismus/italie)
+- [**Nižší Francouzská tvorba klasicismu**](/cs/literatura/klasicismus/nizsi-francie)
+- [**Vyšší Francouzská tvorba klasicismu**](/cs/literatura/klasicismus/vyssi-francie)
+- [**Italská tvorba klasicismu**](/cs/literatura/klasicismus/italie)
