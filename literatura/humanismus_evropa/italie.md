@@ -2,12 +2,13 @@
 title: Itálie - Renezance a humanismus
 description: 
 published: true
-date: 2025-03-20T15:04:49.959Z
+date: 2025-03-21T22:30:56.500Z
 tags: literatura, humanismus, renesance
 editor: markdown
 dateCreated: 2025-03-20T15:04:45.494Z
 ---
 
+# Itálie - Renezance a humanismus
 - proměna vztahu muže a ženy
 - kolébka renesance
 - konec chápání života jako příprava na smrt
