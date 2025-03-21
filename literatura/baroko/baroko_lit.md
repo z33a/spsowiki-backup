@@ -2,12 +2,13 @@
 title: Barokní literatura v Čechách
 description: 
 published: true
-date: 2025-03-20T11:17:58.197Z
+date: 2025-03-21T22:28:38.602Z
 tags: literatura, baroko
 editor: markdown
 dateCreated: 2025-03-20T11:17:53.714Z
 ---
 
+# Barokní literatura v Čechách
 - snaha obrátit domácí obyvatelstvo na katolickou církev
 - obnovené zřízení země:
 	1. násilná germanizace
@@ -19,20 +20,20 @@ dateCreated: 2025-03-20T11:17:53.714Z
 	- legendistika
 	- duchovní poezie
 	- drama
-- díla:
-	- Svatováclavská bible
-		- náhrada za Bibli kralickou, protože byla v češtině
 
-### Bohuslav Balbín
+### Svatováclavská bible
+- náhrada za Bibli kralickou, protože byla v češtině
+
+## Bohuslav Balbín
 - jezuita s zájmem o českou historií
 - vystupoval proti oficiálním názorům
-- díla:
-	- Obrana jazyka slovanského, zvláště českého
-		- latinsky napsaná
-		- obsahuje právo národa na vlastní jazyk
-		- vydána na počátku Národního obrození
 
-### Jan Amos Komenský
+### Obrana jazyka slovanského, zvláště českého
+- latinsky napsaná
+- obsahuje právo národa na vlastní jazyk
+- vydána na počátku Národního obrození
+
+## Jan Amos Komenský
 - všestranný celosvětově známý
 - zakladatel české literatury
 - poslední biskup Jednoty Bratrské
@@ -45,47 +46,47 @@ dateCreated: 2025-03-20T11:17:53.714Z
 - koncept vzdělání:
 	- 4 stupně po 6 letech
 	- školka v rodině -> škola obecná -> škola latinská (gympl) -> univerzita
-- díla:
-	- Labyrint světa a ráj srdce
-		- filosofickonábožesnké dílo
-		1. Prvni cesta poutníka městem (světem)
-			- průvodci:
-				- Všudybyl (zvědavost)
-				- Mámení (nedokonalost poznání)
-		2. dostane růžové brýle špatně nasazené -> vidí všechno dobro a zlo města
-		3. poutník odejde do ráje (vnitřní klid)
 
-	- Kšaft umírající matky, Jednoty bratrské
-		- závěť Komenského pro členy Jednoty
-		- děj:
-			- matka před smrtí v cizině promlouvá ke svým dětem
-			- odkazuje jim všechno duchovní bohatství
-			- *"Věřím i já Bohu, že vláda věcí tvých k tobě se zase navráti, ó lide česky."*
+### Labyrint světa a ráj srdce
+- filosofickonábožesnké dílo
+1. Prvni cesta poutníka městem (světem)
+	- průvodci:
+		- Všudybyl (zvědavost)
+		- Mámení (nedokonalost poznání)
+2. dostane růžové brýle špatně nasazené -> vidí všechno dobro a zlo města
+3. poutník odejde do ráje (vnitřní klid)
 
-	- Didaktika
-		- pedagogická tvorba
-		- pedagogické zásady:
-			- aby pro všechny byli povinni do školy
-			- aby učitel měl správné pomůcky
-			- důležité je opakování a zkoušení
-			- není zájem -> není znalost
+### Kšaft umírající matky, Jednoty bratrské
+- závěť Komenského pro členy Jednoty
+- děj:
+	- matka před smrtí v cizině promlouvá ke svým dětem
+	- odkazuje jim všechno duchovní bohatství
+	- *"Věřím i já Bohu, že vláda věcí tvých k tobě se zase navráti, ó lide česky."*
 
-	- Informatorium školy mateřské
-		- pedagogická tvorba
-		- výchova předškoláků
-		- pro matky a chůvy
+### Didaktika
+- pedagogická tvorba
+- pedagogické zásady:
+	- aby pro všechny byli povinni do školy
+	- aby učitel měl správné pomůcky
+	- důležité je opakování a zkoušení
+	- není zájem -> není znalost
 
-	- Orbis pictus (Svět v obrazech)
-		- prvni obrázková učebnice na světě
-		- spojení názorného a jazykového vyučování
+### Informatorium školy mateřské
+- pedagogická tvorba
+- výchova předškoláků
+- pro matky a chůvy
 
-	- Brána jazyků otevřená
-		- učebnice latiny
+### Orbis pictus (Svět v obrazech)
+- prvni obrázková učebnice na světě
+- spojení názorného a jazykového vyučování
 
-### Bedřich Bridel
+### Brána jazyků otevřená
+- učebnice latiny
+
+## Bedřich Bridel
 - 17 století
 - český barokní spisovatel
-- díla:
-	- Co Bůh? Člověk?
-		- lyrická duchovní báseň
-		- srovnání Boha a člověka
+
+### Co Bůh? Člověk?
+- lyrická duchovní báseň
+- srovnání Boha a člověka
