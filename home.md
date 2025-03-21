@@ -2,7 +2,7 @@
 title: Domovská stránka
 description: 
 published: true
-date: 2025-03-21T07:18:11.347Z
+date: 2025-03-21T07:23:26.474Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T18:37:15.976Z
@@ -21,7 +21,7 @@ Pro návody jak tuto wiki používat se podívej zde: [https://docs.requarks.io/
 **Každý nový účet musím nejdříve manuálně oveřit, takže vám to prvně vyhodí error. Pokud to do pár minut neudělám napište mi na Discord.**
 
 ## Podpora
-- V případě problémů mi napište na email **spsowiki.oo4qc@passinbox.com** nebo na Discord '**z33a_z33a**'
+- V případě problémů mi napište na email **spsowiki.oo4qc@passinbox.com** nebo na Discord [**z33a**](https://discordapp.com/users/646704901229117458)
 
 ## Technické info
 - Tato instance [Wiki.js](https://js.wiki/) běží na soukromém Debian serveru přes Docker a je zapnutá 24/7 (Pro více info zavítej [zde](/cs/offtopic/technicke-info))
