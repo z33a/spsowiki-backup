@@ -2,13 +2,13 @@
 title: Otázky na test z EKO 27.3.2025
 description: 
 published: true
-date: 2025-03-24T07:49:42.281Z
+date: 2025-03-24T07:52:27.793Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-24T07:49:42.281Z
 ---
 
-# Otázky na test z EKO 27.3.2025
+# Otázky na test z EKO 27.3.2025 (nejsou všechny)
 1. Co to je podnik, co to je podnikání?
 2. Co je fyzická / právnická osoba a do kterých rejstříků se zapisují a příklady těchto osob
 3. Koncese / koncesované živnosti
