@@ -2,7 +2,7 @@
 title: Domovská stránka
 description: 
 published: true
-date: 2025-03-24T07:50:55.387Z
+date: 2025-03-27T13:03:02.390Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T18:37:15.976Z
@@ -10,10 +10,6 @@ dateCreated: 2025-03-18T18:37:15.976Z
 
 > **Přijímám nápady na pozadí přihlašovací obrazovky + lepší hlavní logo**
 {.is-info}
-
-> [**!!!! Otázky na test z EKO 27.3.2025 !!!!**](/cs/ekonomika/otazky-test-03-25)
-{.is-danger}
-
 
 # Domovská stránka
 Vítej na neoficiální wiki **SPŠO**. Wiki je zprostředkována studenty pro studenty tak se prosím chovej slušně.
