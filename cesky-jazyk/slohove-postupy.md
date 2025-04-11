@@ -2,10 +2,10 @@
 title: Slohové postupy
 description: 
 published: true
-date: 2025-03-20T21:29:04.012Z
+date: 2025-03-29T13:02:46.407Z
 tags: cestina, sloh, slohove, postupy, slohovepostupy
 editor: markdown
-dateCreated: 2025-03-20T21:28:59.077Z
+dateCreated: 2025-03-29T12:42:50.979Z
 ---
 
 # Slohové postupy

@@ -2,10 +2,10 @@
 title: Anglické osvícenství
 description: 
 published: true
-date: 2025-03-20T17:07:07.353Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T17:07:03.072Z
+dateCreated: 2025-03-29T12:53:57.724Z
 ---
 
 ## Francis Bacon

@@ -2,10 +2,10 @@
 title: Buddhismus
 description: 
 published: true
-date: 2025-03-21T10:32:17.725Z
+date: 2025-03-29T13:02:46.407Z
 tags: občanka
 editor: markdown
-dateCreated: 2025-03-21T10:32:17.725Z
+dateCreated: 2025-03-29T12:49:03.404Z
 ---
 
 # Buddhismus

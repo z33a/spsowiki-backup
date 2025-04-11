@@ -2,10 +2,10 @@
 title: Preromantismus v Německu
 description: 
 published: true
-date: 2025-03-20T17:18:49.468Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T17:18:43.378Z
+dateCreated: 2025-03-29T12:54:51.566Z
 ---
 
 ## Goethe

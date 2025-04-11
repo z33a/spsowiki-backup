@@ -2,10 +2,10 @@
 title: Personifikace
 description: 
 published: true
-date: 2025-03-20T21:38:25.818Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura, literarnipojmy, personifikace
 editor: markdown
-dateCreated: 2025-03-20T21:38:21.932Z
+dateCreated: 2025-03-29T12:48:19.014Z
 ---
 
 # Personifikace ("zosobnění"):

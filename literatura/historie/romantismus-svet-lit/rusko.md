@@ -2,10 +2,10 @@
 title: Romantismus v Rusku
 description: 
 published: true
-date: 2025-03-20T17:50:16.676Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T17:50:11.639Z
+dateCreated: 2025-03-29T12:55:53.095Z
 ---
 
 ## Puškin

@@ -2,10 +2,10 @@
 title: Francouzské osvícenství
 description: 
 published: true
-date: 2025-03-20T17:08:02.994Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T17:07:59.068Z
+dateCreated: 2025-03-29T12:54:04.381Z
 ---
 
 # Francouzské osvícenství

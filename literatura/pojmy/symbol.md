@@ -2,10 +2,10 @@
 title: Symbol
 description: 
 published: true
-date: 2025-03-20T21:46:27.330Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura, literarnipojmy, symbol
 editor: markdown
-dateCreated: 2025-03-20T21:46:22.066Z
+dateCreated: 2025-03-29T12:48:33.251Z
 ---
 
 # Symbol:

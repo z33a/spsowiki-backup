@@ -2,10 +2,10 @@
 title: Realismus v Anglii
 description: 
 published: true
-date: 2025-03-21T22:44:57.741Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T17:36:52.743Z
+dateCreated: 2025-03-29T12:54:57.565Z
 ---
 
 # Realismus v Anglii

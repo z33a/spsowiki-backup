@@ -2,10 +2,10 @@
 title: 2. Fáze Národního obrození - ofenzivní
 description: 
 published: true
-date: 2025-03-20T17:05:01.481Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T17:04:56.600Z
+dateCreated: 2025-03-29T12:53:50.805Z
 ---
 
 ## Jungmann

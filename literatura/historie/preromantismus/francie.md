@@ -2,10 +2,10 @@
 title: Preromantismus ve Francii
 description: 
 published: true
-date: 2025-03-20T17:18:00.778Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T17:17:55.904Z
+dateCreated: 2025-03-29T12:54:45.665Z
 ---
 
 ## Jean Jacques Rousseau

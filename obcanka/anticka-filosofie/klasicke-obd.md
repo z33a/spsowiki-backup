@@ -2,10 +2,10 @@
 title: Klasické období
 description: 
 published: true
-date: 2025-03-21T10:19:06.935Z
+date: 2025-03-29T13:02:46.407Z
 tags: občanka, filosofie
 editor: markdown
-dateCreated: 2025-03-21T10:19:06.935Z
+dateCreated: 2025-03-29T12:48:48.838Z
 ---
 
 # Klasické období

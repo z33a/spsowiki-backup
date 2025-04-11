@@ -2,10 +2,10 @@
 title: Literatura 14. století
 description: 
 published: true
-date: 2025-03-20T17:15:19.135Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T17:15:14.962Z
+dateCreated: 2025-03-29T12:54:24.922Z
 ---
 
 ## Sociální satira

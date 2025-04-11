@@ -2,10 +2,10 @@
 title: Osvícenství
 description: 
 published: true
-date: 2025-03-21T22:39:17.101Z
+date: 2025-03-29T23:47:14.343Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T17:06:10.261Z
+dateCreated: 2025-03-29T12:46:10.979Z
 ---
 
 # Osvícenství
@@ -18,5 +18,5 @@ dateCreated: 2025-03-20T17:06:10.261Z
 	- využití i v panování
 
 ## List států
-- [**Anglické osvícenství**](/cs/literatura/osvicenstvi/anglie)
-- [**Francouzské osvícenství**](/cs/literatura/osvicenstvi/francie)
+- [**Anglické osvícenství**](/cs/literatura/historie/osvicenstvi/anglie)
+- [**Francouzské osvícenství**](/cs/literatura/historie/osvicenstvi/francie)

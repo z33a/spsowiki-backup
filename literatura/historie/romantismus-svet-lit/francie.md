@@ -2,10 +2,10 @@
 title: Romantismus ve Francii
 description: 
 published: true
-date: 2025-03-20T17:51:29.559Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T17:51:24.879Z
+dateCreated: 2025-03-29T12:55:44.988Z
 ---
 
 ## Viktor Hugo

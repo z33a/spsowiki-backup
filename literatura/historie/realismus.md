@@ -2,10 +2,10 @@
 title: Realismus
 description: 
 published: true
-date: 2025-03-21T22:42:43.609Z
+date: 2025-03-29T23:48:17.829Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T17:34:02.307Z
+dateCreated: 2025-03-29T12:46:27.965Z
 ---
 
 # Realismus
@@ -29,9 +29,9 @@ dateCreated: 2025-03-20T17:34:02.307Z
 	- hovorové a neřečnické prvky
 
 ## List států
-- [**Realismus v Anglii**](/cs/literatura/realismus/anglie)
-- [**Realismus ve Francii**](/cs/literatura/realismus/francie)
-- [**Realismus v Rusku**](/cs/literatura/realismus/rusko)
-- [**Realismus v USA**](/cs/literatura/realismus/usa)
-- [**Realismus v Polsku**](/cs/literatura/realismus/polsko)
-- [**Realismus v Dánsku**](/cs/literatura/realismus/dansko)
+- [**Realismus v Anglii**](/cs/literatura/historie/realismus/anglie)
+- [**Realismus ve Francii**](/cs/literatura/historie/realismus/francie)
+- [**Realismus v Rusku**](/cs/literatura/historie/realismus/rusko)
+- [**Realismus v USA**](/cs/literatura/historie/realismus/usa)
+- [**Realismus v Polsku**](/cs/literatura/historie/realismus/polsko)
+- [**Realismus v Dánsku**](/cs/literatura/historie/realismus/dansko)

@@ -2,10 +2,10 @@
 title: Romantismus v Anglii
 description: 
 published: true
-date: 2025-03-20T17:49:15.301Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T17:49:11.491Z
+dateCreated: 2025-03-29T12:55:37.883Z
 ---
 
 ## G.G. Byron

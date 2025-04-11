@@ -2,10 +2,10 @@
 title: Vyšší Francouzská tvorba klasicismu
 description: 
 published: true
-date: 2025-03-20T16:05:21.690Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T16:05:16.751Z
+dateCreated: 2025-03-29T12:53:11.544Z
 ---
 
 ## Corneille

@@ -2,10 +2,10 @@
 title: Paradox
 description: 
 published: true
-date: 2025-03-20T21:49:50.514Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura, literarnipojmy, paradox
 editor: markdown
-dateCreated: 2025-03-20T21:49:46.971Z
+dateCreated: 2025-03-29T12:48:11.730Z
 ---
 
 # Paradox:

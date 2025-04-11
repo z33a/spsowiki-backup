@@ -2,10 +2,10 @@
 title: Tyl
 description: 
 published: true
-date: 2025-03-20T15:19:24.213Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T15:19:05.805Z
+dateCreated: 2025-03-29T12:50:46.535Z
 ---
 
 ## Tyl

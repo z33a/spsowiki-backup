@@ -2,10 +2,10 @@
 title: Prokletí básníci
 description: 
 published: true
-date: 2025-03-20T21:18:09.422Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura, čeština
 editor: markdown
-dateCreated: 2025-03-18T20:54:07.786Z
+dateCreated: 2025-03-29T12:44:03.577Z
 ---
 
 # Charakteristika doby  

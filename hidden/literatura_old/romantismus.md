@@ -2,10 +2,10 @@
 title: Romantismus
 description: 
 published: true
-date: 2025-03-20T21:18:49.527Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura, čeština
 editor: markdown
-dateCreated: 2025-03-18T21:02:23.067Z
+dateCreated: 2025-03-29T12:44:26.074Z
 ---
 
 # Romantismus

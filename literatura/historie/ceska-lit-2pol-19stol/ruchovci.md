@@ -2,10 +2,10 @@
 title: Ruchovci
 description: 
 published: true
-date: 2025-03-20T12:24:45.890Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T12:24:41.060Z
+dateCreated: 2025-03-29T12:51:16.831Z
 ---
 
 ## Svatopluk Čech

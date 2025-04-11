@@ -2,24 +2,27 @@
 title: Literární pojmy
 description: 
 published: true
-date: 2025-03-20T22:27:06.627Z
+date: 2025-03-29T23:54:24.539Z
 tags: literatura, literarnipojmy
 editor: markdown
-dateCreated: 2025-03-20T22:27:01.841Z
+dateCreated: 2025-03-29T12:43:10.490Z
 ---
 
+# Základy
+- [**Základy**](/cs/literatura/pojmy/zaklady)
+
 # Literární pojmy
-- [Alegorie](/cs/literatura/literarni-pojmy/alegorie)
-- [Aliterace](/cs/literatura/literarni-pojmy/aliterace)
-- [Anafora](/cs/literatura/literarni-pojmy/anafora)
-- [Asonance](/cs/literatura/literarni-pojmy/asonance)
-- [Epifora](/cs/literatura/literarni-pojmy/epifora)
-- [Epiteton](/cs/literatura/literarni-pojmy/epiteton)
-- [Hyperbola](/cs/literatura/literarni-pojmy/hyperbola)
-- [Ironie](/cs/literatura/literarni-pojmy/ironie)
-- [Metafora](/cs/literatura/literarni-pojmy/metafora)
-- [Oxymoron](/cs/literatura/literarni-pojmy/oxymoron)
-- [Paradox](/cs/literatura/literarni-pojmy/paradox)
-- [Personifikace](/cs/literatura/literarni-pojmy/personifikace)
-- [Rým](/cs/literatura/literarni-pojmy/rym)
-- [Symbol](/cs/literatura/literarni-pojmy/symbol)
+- [**Alegorie**](/cs/literatura/pojmy/alegorie)
+- [**Aliterace**](/cs/literatura/pojmy/aliterace)
+- [**Anafora**](/cs/literatura/pojmy/anafora)
+- [**Asonance**](/cs/literatura/pojmy/asonance)
+- [**Epifora**](/cs/literatura/pojmy/epifora)
+- [**Epiteton**](/cs/literatura/pojmy/epiteton)
+- [**Hyperbola**](/cs/literatura/pojmy/hyperbola)
+- [**Ironie**](/cs/literatura/pojmy/ironie)
+- [**Metafora**](/cs/literatura/pojmy/metafora)
+- [**Oxymoron**](/cs/literatura/pojmy/oxymoron)
+- [**Paradox**](/cs/literatura/pojmy/paradox)
+- [**Personifikace**](/cs/literatura/pojmy/personifikace)
+- [**Rým**](/cs/literatura/pojmy/rym)
+- [**Symbol**](/cs/literatura/pojmy/symbol)

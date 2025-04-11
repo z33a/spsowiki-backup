@@ -2,10 +2,10 @@
 title: Barokní literatura v Čechách
 description: 
 published: true
-date: 2025-03-21T22:28:38.602Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura, baroko
 editor: markdown
-dateCreated: 2025-03-20T11:17:53.714Z
+dateCreated: 2025-03-29T12:50:08.057Z
 ---
 
 # Barokní literatura v Čechách

@@ -2,10 +2,10 @@
 title: Alegorie
 description: 
 published: true
-date: 2025-03-20T21:47:49.249Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura, literarnipojmy, alegorie
 editor: markdown
-dateCreated: 2025-03-20T21:47:45.599Z
+dateCreated: 2025-03-29T12:47:07.555Z
 ---
 
 # Alegorie:

@@ -2,10 +2,10 @@
 title: Funkční jazykové styly
 description: 
 published: true
-date: 2025-03-20T21:26:39.287Z
+date: 2025-03-29T13:02:46.407Z
 tags: cestina, jazykovestyly, jazyk, styly, funkcnistyly
 editor: markdown
-dateCreated: 2025-03-20T21:26:35.869Z
+dateCreated: 2025-03-29T12:42:44.631Z
 ---
 
 # Jazykové styly

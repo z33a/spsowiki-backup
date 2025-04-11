@@ -2,10 +2,10 @@
 title: Proletářská poezie
 description: 
 published: true
-date: 2025-03-20T12:05:34.925Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T12:04:56.084Z
+dateCreated: 2025-03-29T12:50:57.781Z
 ---
 
 ## Wolker

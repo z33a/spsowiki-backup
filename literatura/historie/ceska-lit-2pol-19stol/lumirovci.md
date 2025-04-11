@@ -2,10 +2,10 @@
 title: Lumírovci
 description: 
 published: true
-date: 2025-03-20T12:30:23.807Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T12:26:52.794Z
+dateCreated: 2025-03-29T12:51:03.767Z
 ---
 
 ## Vrchlický

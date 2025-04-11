@@ -2,10 +2,10 @@
 title: Realismus ve Francii
 description: 
 published: true
-date: 2025-03-20T17:44:06.942Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T17:44:02.095Z
+dateCreated: 2025-03-29T12:55:10.416Z
 ---
 
 ## Honoré de Balzac

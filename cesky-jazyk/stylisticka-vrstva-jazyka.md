@@ -2,10 +2,10 @@
 title: Stylistická vrstva jazyka
 description: 
 published: true
-date: 2025-03-20T21:32:36.820Z
+date: 2025-03-29T13:02:46.407Z
 tags: cestina, jazyk, stylisticka, vrstva, stylistickavrstvajazyka
 editor: markdown
-dateCreated: 2025-03-20T21:32:33.101Z
+dateCreated: 2025-03-29T12:42:57.667Z
 ---
 
 # Stylistická vrstva jazyka

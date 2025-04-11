@@ -2,10 +2,10 @@
 title: Spor o univerzálie
 description: 
 published: true
-date: 2025-03-25T07:10:09.767Z
+date: 2025-03-29T13:02:46.407Z
 tags: 
 editor: markdown
-dateCreated: 2025-03-25T07:10:09.767Z
+dateCreated: 2025-03-29T12:49:39.504Z
 ---
 
 # Spor o univerzálie

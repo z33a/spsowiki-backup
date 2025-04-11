@@ -2,10 +2,10 @@
 title: Preromantismus
 description: 
 published: true
-date: 2025-03-21T22:41:23.727Z
+date: 2025-03-29T23:47:36.316Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T17:17:10.095Z
+dateCreated: 2025-03-29T12:46:22.920Z
 ---
 
 # Preromantismus
@@ -22,5 +22,5 @@ dateCreated: 2025-03-20T17:17:10.095Z
 	- poutník
 
 ## List států
-- [**Preromantismus ve Francii**](/cs/literatura/preromantismus/francie)
-- [**Preromantismus v Německu**](/cs/literatura/preromantismus/nemecko)
+- [**Preromantismus ve Francii**](/cs/literatura/historie/preromantismus/francie)
+- [**Preromantismus v Německu**](/cs/literatura/historie/preromantismus/nemecko)

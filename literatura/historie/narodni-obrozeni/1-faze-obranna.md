@@ -2,10 +2,10 @@
 title: 1. Fáze Národního obrození - obranná
 description: 
 published: true
-date: 2025-03-20T17:02:43.132Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T17:02:39.054Z
+dateCreated: 2025-03-29T12:53:45.054Z
 ---
 
 ## Dobrovský

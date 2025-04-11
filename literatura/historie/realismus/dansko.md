@@ -2,10 +2,10 @@
 title: Realismus v Dánsku
 description: 
 published: true
-date: 2025-03-20T17:38:36.331Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T17:38:31.489Z
+dateCreated: 2025-03-29T12:55:04.325Z
 ---
 
 ## Anderson

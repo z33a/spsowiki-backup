@@ -2,10 +2,10 @@
 title: Ironie
 description: 
 published: true
-date: 2025-03-20T21:40:31.308Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura, literarnipojmy, ironie
 editor: markdown
-dateCreated: 2025-03-20T21:40:26.749Z
+dateCreated: 2025-03-29T12:47:50.989Z
 ---
 
 # Ironie:

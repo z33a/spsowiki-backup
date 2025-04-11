@@ -2,10 +2,10 @@
 title: Aliterace
 description: 
 published: true
-date: 2025-03-20T21:43:08.429Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura, literarnipojmy, aliterace
 editor: markdown
-dateCreated: 2025-03-20T21:43:03.276Z
+dateCreated: 2025-03-29T12:47:14.359Z
 ---
 
 # Aliterace (hlásková shoda na začátku):

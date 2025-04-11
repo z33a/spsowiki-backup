@@ -2,10 +2,10 @@
 title: Italská tvorba klasicismu
 description: 
 published: true
-date: 2025-03-20T16:05:54.646Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T16:05:50.806Z
+dateCreated: 2025-03-29T12:52:56.818Z
 ---
 
 ## Carlo Goldovi

@@ -2,10 +2,10 @@
 title: Křesťanství
 description: 
 published: true
-date: 2025-03-21T10:51:32.960Z
+date: 2025-03-29T13:02:46.407Z
 tags: občanka
 editor: markdown
-dateCreated: 2025-03-21T10:51:32.960Z
+dateCreated: 2025-03-29T12:49:24.058Z
 ---
 
 # Křesťanství

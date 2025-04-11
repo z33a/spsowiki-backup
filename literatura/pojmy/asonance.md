@@ -2,10 +2,10 @@
 title: Asonance
 description: 
 published: true
-date: 2025-03-20T21:44:43.635Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura, literarnipojmy, asonance
 editor: markdown
-dateCreated: 2025-03-20T21:44:39.418Z
+dateCreated: 2025-03-29T12:47:27.051Z
 ---
 
 # Asonance (samohlásková shoda uvnitř):

@@ -2,10 +2,10 @@
 title: Středověká filosofie
 description: 
 published: true
-date: 2025-03-25T07:08:17.149Z
+date: 2025-03-29T13:02:46.407Z
 tags: 
 editor: markdown
-dateCreated: 2025-03-25T07:08:17.149Z
+dateCreated: 2025-03-29T12:43:45.101Z
 ---
 
 # Středověká filosofie

@@ -2,10 +2,10 @@
 title: Nižší Francouzská tvorba klasicismu
 description: 
 published: true
-date: 2025-03-20T16:04:02.052Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T16:03:56.556Z
+dateCreated: 2025-03-29T12:53:04.382Z
 ---
 
 ## Moliere

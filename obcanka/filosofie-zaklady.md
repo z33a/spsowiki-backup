@@ -2,10 +2,10 @@
 title: Filosofie Základy
 description: 
 published: true
-date: 2025-03-21T10:10:08.860Z
+date: 2025-03-29T13:02:46.407Z
 tags: občanka, filosofie
 editor: markdown
-dateCreated: 2025-03-21T10:10:08.860Z
+dateCreated: 2025-03-29T12:43:24.355Z
 ---
 
 # Filosofie Základy

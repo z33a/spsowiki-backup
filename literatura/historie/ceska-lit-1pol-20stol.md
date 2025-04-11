@@ -2,10 +2,10 @@
 title: Česká literatura v první polovině 20. století
 description: 
 published: true
-date: 2025-03-21T22:54:50.573Z
+date: 2025-03-29T23:51:14.216Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T12:01:58.879Z
+dateCreated: 2025-03-29T12:45:09.087Z
 ---
 
 # Česká literatura v první polovině 20. století
@@ -19,7 +19,7 @@ dateCreated: 2025-03-20T12:01:58.879Z
 	- novorenesance, novoklasicismus, minimální byty
 - hudba - Dvořák, Janáček
 
-## [**Proletářská poezie**](/cs/literatura/ceska-lit-1pol-20stol/proletari)
+## [**Proletářská poezie**](/cs/literatura/historie/ceska-lit-1pol-20stol/proletari)
 - proletář - lidi co makají rukama
 - doba: 20. léta 20. stol.
 - příčina:
@@ -50,7 +50,7 @@ dateCreated: 2025-03-20T12:01:58.879Z
 			- námět:
 				- sociální nespravedlnost, dělníci (Wolker, Neumann)
 
-## [Poetismus, surrealismus](/cs/literatura/ceska-lit-1pol-20stol/poetismus-surrealismus)
+## [Poetismus, surrealismus](/cs/literatura/historie/ceska-lit-1pol-20stol/poetismus-surrealismus)
 - výhradně český směr
 - snaha učinit umění a společensky svobodným a tedy šťastným -> hravost, optimismus, fantazie, kino, cirkus, jazz, fotbal
 - znaky: 

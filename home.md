@@ -2,10 +2,10 @@
 title: Domovská stránka
 description: 
 published: true
-date: 2025-03-27T13:03:02.390Z
+date: 2025-03-29T13:02:46.407Z
 tags: 
 editor: markdown
-dateCreated: 2025-03-18T18:37:15.976Z
+dateCreated: 2025-03-29T12:42:29.209Z
 ---
 
 > **Přijímám nápady na pozadí přihlašovací obrazovky + lepší hlavní logo**

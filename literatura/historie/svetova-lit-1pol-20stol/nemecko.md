@@ -2,10 +2,10 @@
 title: Německo - Světová literatura 1. polovině 20. století
 description: 
 published: true
-date: 2025-03-20T18:08:40.672Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T18:08:36.915Z
+dateCreated: 2025-03-29T12:56:16.291Z
 ---
 
 ## Thomas Mann

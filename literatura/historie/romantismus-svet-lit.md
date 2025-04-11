@@ -2,10 +2,10 @@
 title: Romantismus ve světové literatuře
 description: 
 published: true
-date: 2025-03-21T22:45:49.673Z
+date: 2025-03-29T23:47:52.532Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T17:46:29.816Z
+dateCreated: 2025-03-29T12:46:33.643Z
 ---
 
 # Romantismus ve světové literatuře
@@ -28,6 +28,6 @@ dateCreated: 2025-03-20T17:46:29.816Z
 	- romány
 
 ## List států
-- [**Romantismus ve Francii**](/cs/literatura/romantismus-svet-lit/francie)
-- [**Romantismus v Anglii**](/cs/literatura/romantismus-svet-lit/anglie)
-- [**Romantismus v Rusku**](/cs/literatura/romantismus-svet-lit/rusko)
+- [**Romantismus ve Francii**](/cs/literatura/historie/romantismus-svet-lit/francie)
+- [**Romantismus v Anglii**](/cs/literatura/historie/romantismus-svet-lit/anglie)
+- [**Romantismus v Rusku**](/cs/literatura/historie/romantismus-svet-lit/rusko)

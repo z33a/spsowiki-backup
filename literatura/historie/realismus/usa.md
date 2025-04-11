@@ -2,10 +2,10 @@
 title: Realismus v USA
 description: 
 published: true
-date: 2025-03-20T17:41:52.934Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T17:41:48.958Z
+dateCreated: 2025-03-29T12:55:30.965Z
 ---
 
 ## Twain

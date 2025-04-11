@@ -2,10 +2,10 @@
 title: Realismus v Rusku
 description: 
 published: true
-date: 2025-03-20T17:41:19.270Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T17:41:13.964Z
+dateCreated: 2025-03-29T12:55:23.993Z
 ---
 
 ## Turgeněv

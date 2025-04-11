@@ -2,14 +2,15 @@
 title: Poláček
 description: 
 published: true
-date: 2025-03-20T15:52:48.199Z
+date: 2025-04-09T10:08:04.291Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T15:52:24.270Z
+dateCreated: 2025-03-29T12:52:01.408Z
 ---
 
 ## Poláček
 - spisovatel, novinář
+- [demokratický proud](/cs/literatura/historie/ceska-proza-mezi-val)
 - žid -> koncentrák
 - popisuje život střední vrstvy
 	- rysy, zvyky, chování, mluvu, zlozvyky úředníků

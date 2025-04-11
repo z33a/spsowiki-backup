@@ -2,10 +2,10 @@
 title: Oxymoron
 description: 
 published: true
-date: 2025-03-20T21:48:54.633Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura, literarnipojmy, oxymoron
 editor: markdown
-dateCreated: 2025-03-20T21:48:50.968Z
+dateCreated: 2025-03-29T12:48:05.911Z
 ---
 
 # Oxymoron:

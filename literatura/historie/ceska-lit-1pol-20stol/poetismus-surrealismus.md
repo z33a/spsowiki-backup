@@ -2,13 +2,11 @@
 title: Poetismus, surrealismus
 description: 
 published: true
-date: 2025-03-20T12:10:58.708Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T12:10:32.400Z
+dateCreated: 2025-03-29T12:50:51.941Z
 ---
-
-
 
 ## Nezval
 - všestranný talent, hlava Devětsil

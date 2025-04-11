@@ -2,10 +2,10 @@
 title: Anglie - Renezance a humanismus
 description: 
 published: true
-date: 2025-03-20T14:58:51.997Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura, humanismus, renesance
 editor: markdown
-dateCreated: 2025-03-20T14:58:47.569Z
+dateCreated: 2025-03-29T12:52:21.338Z
 ---
 
 ## Geoffrey Chaucer

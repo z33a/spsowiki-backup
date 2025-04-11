@@ -2,10 +2,10 @@
 title: Epiteton
 description: 
 published: true
-date: 2025-03-20T21:50:40.353Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura, literarnipojmy, epiteton
 editor: markdown
-dateCreated: 2025-03-20T21:50:36.211Z
+dateCreated: 2025-03-29T12:47:38.420Z
 ---
 
 # Epiteton:

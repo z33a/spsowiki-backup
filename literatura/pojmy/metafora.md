@@ -2,10 +2,10 @@
 title: Metafora
 description: 
 published: true
-date: 2025-03-20T21:37:11.337Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura, literarnipojmy, metafora
 editor: markdown
-dateCreated: 2025-03-20T21:37:06.533Z
+dateCreated: 2025-03-29T12:47:58.638Z
 ---
 
 # Metafora:

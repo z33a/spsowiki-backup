@@ -2,10 +2,10 @@
 title: Anafora
 description: 
 published: true
-date: 2025-03-20T21:36:12.277Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura, literarnipojmy, anafora
 editor: markdown
-dateCreated: 2025-03-20T21:36:08.538Z
+dateCreated: 2025-03-29T12:47:19.778Z
 ---
 
 # Anafora:

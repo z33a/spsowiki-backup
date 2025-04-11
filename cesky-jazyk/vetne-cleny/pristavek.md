@@ -2,10 +2,10 @@
 title: Přístavek
 description: 
 published: true
-date: 2025-03-20T21:34:34.133Z
+date: 2025-03-29T13:02:46.407Z
 tags: cestina, vetnecleny, pristavek
 editor: markdown
-dateCreated: 2025-03-20T21:34:29.333Z
+dateCreated: 2025-03-29T12:43:50.302Z
 ---
 
 # Přístavek

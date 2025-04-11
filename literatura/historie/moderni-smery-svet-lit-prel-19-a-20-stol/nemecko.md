@@ -2,10 +2,10 @@
 title: Německo - Moderní umělecké směry
 description: 
 published: true
-date: 2025-03-20T16:58:57.228Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T16:58:53.372Z
+dateCreated: 2025-03-29T12:53:32.126Z
 ---
 
 ## Rilke

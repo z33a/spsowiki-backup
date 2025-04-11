@@ -2,10 +2,10 @@
 title: Hyperbola
 description: 
 published: true
-date: 2025-03-20T21:39:35.418Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura, literarnipojmy, hyperbola
 editor: markdown
-dateCreated: 2025-03-20T21:39:30.479Z
+dateCreated: 2025-03-29T12:47:43.738Z
 ---
 
 # Hyperbola ("nadsázka"):

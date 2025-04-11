@@ -2,10 +2,10 @@
 title: Česká moderna
 description: 
 published: true
-date: 2025-03-20T15:37:16.665Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T15:37:12.379Z
+dateCreated: 2025-03-29T12:51:47.074Z
 ---
 
 ## Machar

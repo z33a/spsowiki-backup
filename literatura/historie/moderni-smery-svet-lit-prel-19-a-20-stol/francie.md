@@ -2,10 +2,10 @@
 title: Francie - Moderní umělecké směry
 description: 
 published: true
-date: 2025-03-20T16:58:33.538Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T16:58:28.799Z
+dateCreated: 2025-03-29T12:53:25.507Z
 ---
 
 ## Prokletí básníci

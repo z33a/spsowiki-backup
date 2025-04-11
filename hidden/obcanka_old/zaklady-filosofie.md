@@ -2,10 +2,10 @@
 title: Základy Filosofie
 description: 
 published: true
-date: 2025-03-18T20:22:36.854Z
+date: 2025-03-29T13:02:46.407Z
 tags: občanka
 editor: markdown
-dateCreated: 2025-03-18T20:22:31.479Z
+dateCreated: 2025-03-29T12:44:43.787Z
 ---
 
 # ZÁKLADY FILOSOFIE

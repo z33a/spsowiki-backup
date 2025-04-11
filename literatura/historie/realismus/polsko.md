@@ -2,10 +2,10 @@
 title: Realismus v Polsku
 description: 
 published: true
-date: 2025-03-20T17:39:31.461Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T17:39:27.159Z
+dateCreated: 2025-03-29T12:55:15.724Z
 ---
 
 ## Sienkiewicz

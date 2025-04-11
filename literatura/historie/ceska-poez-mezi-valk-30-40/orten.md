@@ -2,10 +2,10 @@
 title: Jiří Orten
 description: 
 published: true
-date: 2025-03-20T15:48:41.529Z
+date: 2025-03-29T13:02:46.407Z
 tags: literatura
 editor: markdown
-dateCreated: 2025-03-20T15:32:28.195Z
+dateCreated: 2025-03-29T12:51:35.990Z
 ---
 
 ## Jiří Orten

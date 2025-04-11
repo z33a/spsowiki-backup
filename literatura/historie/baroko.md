@@ -2,10 +2,10 @@
 title: Baroko v Čechách
 description: 
 published: true
-date: 2025-03-21T22:24:32.953Z
+date: 2025-03-29T23:46:31.737Z
 tags: literatura, baroko
 editor: markdown
-dateCreated: 2025-03-20T11:10:59.477Z
+dateCreated: 2025-03-29T12:44:57.122Z
 ---
 
 # Baroko v Čechách
@@ -22,7 +22,7 @@ dateCreated: 2025-03-20T11:10:59.477Z
 		- ďábel x dobro
 		- zlo x dobro
 		- chudoba x krása barokních chrámů
-- [**Barokní literatura v Čechách**](/cs/literatura/baroko/baroko_lit):
+- [**Barokní literatura v Čechách**](/cs/literatura/historie/baroko/baroko_lit):
 	- legendy
 	- duchovní písně
 	- epos

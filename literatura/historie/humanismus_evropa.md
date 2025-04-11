@@ -2,10 +2,10 @@
 title: Humanismus a Renesance v Evropě
 description: 
 published: true
-date: 2025-03-21T22:30:15.264Z
+date: 2025-03-29T23:45:53.916Z
 tags: literatura, humanismus, renesance
 editor: markdown
-dateCreated: 2025-03-20T13:47:53.760Z
+dateCreated: 2025-03-29T12:45:47.225Z
 ---
 
 # Renesance
@@ -30,8 +30,8 @@ dateCreated: 2025-03-20T13:47:53.760Z
 - přechod z středověku do novověku
 
 # List států
-- [**Itálie - Renezance a humanismus**](/cs/literatura/humanismus_evropa/italie)
-- [**Francie - Renezance a humanismus**](/cs/literatura/humanismus_evropa/francie)
-- [**Španělsko - Renezance a humanismus**](/cs/literatura/humanismus_evropa/spanelsko)
-- [**Nizozemsko - Renezance a humanismus**](/cs/literatura/humanismus_evropa/nizozemsko)
-- [**Anglie - Renezance a humanismus**](/cs/literatura/humanismus_evropa/anglie)
+- [**Itálie - Renezance a humanismus**](/cs/literatura/historie/humanismus_evropa/italie)
+- [**Francie - Renezance a humanismus**](/cs/literatura/historie/humanismus_evropa/francie)
+- [**Španělsko - Renezance a humanismus**](/cs/literatura/historie/humanismus_evropa/spanelsko)
+- [**Nizozemsko - Renezance a humanismus**](/cs/literatura/historie/humanismus_evropa/nizozemsko)
+- [**Anglie - Renezance a humanismus**](/cs/literatura/historie/humanismus_evropa/anglie)
